@@ -13,3 +13,16 @@
     /* object-position: 0 80%; */
     height: 400px;
 }
+
+.cor-especial {
+    color: #8b0000;
+}
+
+.botao-cor-especial {
+    background-color: #8b0000;
+    color: #ffffff;
+}
+
+.borda-cor-especial {
+    border-color: #8b0000;
+}
