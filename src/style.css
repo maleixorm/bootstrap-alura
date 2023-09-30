@@ -1,3 +1,7 @@
+.card-largura {
+    max-width: 20rem;
+}
+
 .fonte-titulo {
     font-family: 'Pacifico', cursive;
 }
@@ -25,4 +29,9 @@
 
 .borda-cor-especial {
     border-color: #8b0000;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
 }
